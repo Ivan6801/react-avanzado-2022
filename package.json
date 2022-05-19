@@ -10,7 +10,12 @@
     "lint": "standard",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "react js",
+    "styled-components",
+    "webpack",
+    "GraphQL"
+  ],
   "author": "Ivan Gonzalez <hal308366@gmail.com>",
   "license": "MIT",
   "devDependencies": {
